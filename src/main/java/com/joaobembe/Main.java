@@ -105,7 +105,6 @@ public class Main {
                     System.out.println("------> Analise manual: " + stringResponse + "\n");
                 } catch (IOException e) {
                     logger.log(Level.SEVERE, "An exception occurred", e);
-
                 }
             }
         }
